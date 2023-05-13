@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:orientation="horizontal"
+    android:background="#FFFBFB"
+    >
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/Name"
+            android:text="name here"
+            android:textAllCaps="true"
+            android:textColor="@color/orange"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"/>
+        <TextView
+            android:id="@+id/details"
+            android:text="details here"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+        <TextView
+            android:id="@+id/time"
+            android:text="time here"
+            android:textColor="@color/orange"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"/>
+
+    </LinearLayout>
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/gif"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:background="#fff"
+        android:layout_weight=".5"
+        android:src="@drawable/astridejump"
+        />
+
+
+
+
+</LinearLayout>
