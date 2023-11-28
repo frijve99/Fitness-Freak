@@ -32,11 +32,11 @@ Build the project by selecting "Build" > "Make Project" from the menu.
 Run the app on an Android emulator or a connected device by selecting "Run" > "Run 'app'" from the menu.
 Explore and Contribute
 Familiarize yourself with the codebase and explore different features.
-If you find issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
-Contributing
-Contributions are welcome! Whether you want to report a bug, suggest a new feature, or contribute code, please follow our Contribution Guidelines.
 
-License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your own purposes.
+
+
+If you find issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
+
+
 
 We hope Fitness Freak helps you on your fitness journey. Happy exercising and eating healthy! 🏋️‍♂️🥗
